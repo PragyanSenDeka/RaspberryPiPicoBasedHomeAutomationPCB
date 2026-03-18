@@ -1,5 +1,7 @@
 PicoW Smart Home Automation Controller
 
+![System Diagram](Images/PCB_Board.png)
+
 A robust home automation controller built around the Raspberry Pi Pico W, designed for reliable operation in real-world environments. It combines industrial communication (MODBUS over RS485) with modern IoT capabilities, making it suitable for smart homes, labs, and distributed control systems.
 
 Features
